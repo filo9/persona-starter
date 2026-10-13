@@ -1,0 +1,2 @@
+{"message_id":"demo-1","timestamp":"2026-01-01T10:00:00+08:00","speaker_id":"demo-user","speaker_name":"访客","role":"user","text":"今天想去散步。","message_type":"text","reply_to_message_id":null,"quoted_text":null,"conversation_id":"demo-conversation","source":"fictional_demo"}
+{"message_id":"demo-2","timestamp":"2026-01-01T10:01:00+08:00","speaker_id":"demo-target","speaker_name":"小岚（虚构示例）","role":"target","text":"好呀，你想走安静一点的路线吗？","message_type":"text","reply_to_message_id":"demo-1","quoted_text":"今天想去散步。","conversation_id":"demo-conversation","source":"fictional_demo"}
